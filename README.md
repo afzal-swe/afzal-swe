@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzal-swe&show_icons=true&locale=en" alt="afzal-swe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzal-swe&" alt="afzal-swe" /></p>
+<link src="https://rahuldkjain.github.io/gh-profile-readme-generator/"/>
