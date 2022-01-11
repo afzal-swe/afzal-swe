@@ -1,17 +1,28 @@
-<h1 align="center">Hi 👋, I'm Md.Afzal Hossen</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hello,I'm Md.Afzal Hossen !</h1>
+<h3 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh heart</h3>
+<p align="left">A self-taught, passionate and fast-learner full-stack developer dart from Dhaka, bangladesh earth_americas. Now I'm a final year student of undergrad Software Engineering man_student. I love to work with new technologies and developing web applications telescope. Currently, I am learning how to improve the performance of progressive web applications for better user experience seedling. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web rocket.
 
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afzal-swe&label=Profile%20views&color=0e75b6&style=flat" alt="afzal-swe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzal-swe" alt="afzal-swe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@afzalbhola07" target="blank"><img src="https://img.shields.io/twitter/follow/@afzalbhola07?logo=twitter&style=for-the-badge" alt="@afzalbhola07" /></a> </p>
 
+- 💬 Ask me about **C,Html, Css, Sass, Bootstrap, JavaScript, React,Git, ES6, Node.js**
+
+- 📫 How to reach me **afzalbhola07@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/123ASH3Y4z8mbzlTgJjgR2cFbgdq9JtX2/edit?usp=sharing&ouid=101307301884919788513&rtpof=true&sd=true](https://docs.google.com/document/d/123ASH3Y4z8mbzlTgJjgR2cFbgdq9JtX2/edit?usp=sharing&ouid=101307301884919788513&rtpof=true&sd=true)
+
+- ⚡ Fun fact **I Think i'm not funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@afzalbhola07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@afzalbhola07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/afzal-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/afzal-swe" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/afzal16813/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afzal16813/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/afzal_swe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/afzal_swe/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afzal-swe&show_icons=true&locale=en" alt="afzal-swe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afzal-swe&" alt="afzal-swe" /></p>
-<link src="https://rahuldkjain.github.io/gh-profile-readme-generator/"/>
