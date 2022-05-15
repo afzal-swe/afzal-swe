@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **C,Html, Css, Sass, Bootstrap, JavaScript, React,Git, ES6, Node.js**
 
-- 📫 How to reach me **afzalbhola07@gmail.com**
+- 📫 How to reach me **afzal-15-1700@diu.edu.bd**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/123ASH3Y4z8mbzlTgJjgR2cFbgdq9JtX2/edit?usp=sharing&ouid=101307301884919788513&rtpof=true&sd=true](https://docs.google.com/document/d/123ASH3Y4z8mbzlTgJjgR2cFbgdq9JtX2/edit?usp=sharing&ouid=101307301884919788513&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/123ASH3Y4z8mbzlTgJjgR2cFbgdq9JtX2/edit?usp=sharing&ouid=101307301884919788513&rtpof=true&sd=true](https://sites.google.com/view/portfolio-afzal/home)
 
 - ⚡ Fun fact **I Think i'm not funny**
 - link : **https://github.com/afzal-swe/protfolio.github.io**
