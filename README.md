@@ -15,7 +15,7 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/123ASH3Y4z8mbzlTgJjgR2cFbgdq9JtX2/edit?usp=sharing&ouid=101307301884919788513&rtpof=true&sd=true](https://docs.google.com/document/d/123ASH3Y4z8mbzlTgJjgR2cFbgdq9JtX2/edit?usp=sharing&ouid=101307301884919788513&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I Think i'm not funny**
-- link : **https://rahuldkjain.github.io/gh-profile-readme-generator/**
+- link : **https://github.com/afzal-swe/protfolio.github.io**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@afzalbhola07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@afzalbhola07" height="30" width="40" /></a>
