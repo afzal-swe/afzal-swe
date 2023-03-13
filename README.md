@@ -14,8 +14,8 @@
 
 - 📄 Know about my experiences [https://sites.google.com/view/portfolio-afzal/home](https://sites.google.com/view/portfolio-afzal/home)
 
-- ⚡ Fun fact **I Think i'm not funny**
-- link : **https://github.com/afzal-swe/protfolio.github.io**
+- ⚡ Wordpress Project
+- Express Engineers BD : **[https://www.expressengineersbd.com/](https://www.expressengineersbd.com/)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@afzalbhola07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@afzalbhola07" height="30" width="40" /></a>
